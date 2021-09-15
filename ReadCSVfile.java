@@ -7,6 +7,7 @@
  * will not be regarded as delimiter when performing a split string
  * or when identifying column entries, hence the entry "My name is John, I am 23" will be regarded 
  * as a single entry and not splitted.
+ *
 **/
 
 import java.util.*;
