@@ -30,8 +30,8 @@ public class MainClass
             noOFcolumns = temp.length;
             while(sc.hasNext()) {
                 String str = sc.nextLine();
-                String[] tokens = str.split(",(?=(?:[^\"]*\"[^\"]*\")*[^\"]*$)", -1); //Credits to a Stackoverflow user
-                String tmp = "";
+                String[] tokens = str.split(",(?=(?:[^\"]*\"[^\"]*\")*[^\"]*$)", -1); //Shoutout and credits to a certain user at the Stackoverflow site, whom whose username I can't recall.
+                String tmp = "";					//If you somehow come across Line33 in Stackoverflow, please tell me the username so I can add here
                 for (int m=0;m<tokens.length;m++){
                     tmp = tmp + " || " + tokens[m]; // The || can act as a better delimeter for future String splits 
                 }
@@ -49,6 +49,8 @@ public class MainClass
         }
 	}
 }
+
+//The class below is optional
 //The class below is an example of enabling Generics in Java
 class Data<T extends Comparable<T>> { //Extends Comparable makes it easier for future comparison of data
     private T value;                 // Also useful for perforoming a Binary Search if needed
