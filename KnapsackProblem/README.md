@@ -3,8 +3,10 @@ This is a NetBeans project written in Java.
 This Java program works closely with the Datasets given in https://people.math.sc.edu/Burkardt/datasets/knapsack_01/knapsack_01.html .
 
 The Project contains code for a GUI program that solves the 0-1 Knapsack Problem using the two approaches below:
+
 1.) Dynamic Programming approach
 2.) Genetic Algorithm
+
 
 This Project was prepared during my the second Semester at the Univerisity of the South Pacific while attending a course unit 
 named CS214: Design and Analysis of Algorithms, for the year 2021. 
