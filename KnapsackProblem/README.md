@@ -19,4 +19,17 @@ This program uses a lot of elements from the Java Swing Library, a GUI developem
 There's also a new version of Java Swing, which is JavaFX.
 If you want to design to design GUI programs in C++ or C#, you can use Visual Studio Community Edition for free. 
 
-Please do reach out to me via email if you want to obtain an Importable NetBeans Project ZIP file, which contains these same codes. 
+
+-----
+
+A special notice to USP students taking the course unit of CS214, as at Semester 2, for the year 2021:
+
+Please use the link below carefully. It is the NetBeans project we have submitted in the Assignment 2 dropbox for CS214_202103. 
+
+Here is a link to the NetBeans Project: https://drive.google.com/file/d/1_hHM0tMxPOaQ9tBfkXheowb6hYZw_N4w/view?usp=sharing 
+
+Only a handful of students were given access to this project, and if you would like to have access, please reply to the Discussion Forum
+
+in CS214 Moodle shell, under the Assignment 2 topic of Discussion. Alternatively, you can send me an email via Student Online Services. 
+
+Prepared by: Ratu Solomoni Railoa (s11123197@student.usp.ac.fj)
