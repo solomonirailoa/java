@@ -2,3 +2,7 @@ READ ME
 
 We credit "https://github.com/knowm/XChart" for the use of this Chart Plotting library,
 which has helped us in the Graph plotting in Question 4 about Racing the two algorithms.
+
+
+This library is imported in the MainClassGUI.java, or the Main Class as:
+import org.knowm.xchart.*;
