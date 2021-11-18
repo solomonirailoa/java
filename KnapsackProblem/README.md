@@ -5,6 +5,7 @@ This Java program works closely with the Datasets given in https://people.math.s
 The Project contains code for a GUI program that solves the 0-1 Knapsack Problem using the two approaches below:
 
 1.) Dynamic Programming approach
+
 2.) Genetic Algorithm
 
 
