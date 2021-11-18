@@ -33,6 +33,7 @@ Only a handful of students were given access to this project, and if you would l
 
 in CS214 Moodle shell, under the Assignment 2 topic of Discussion. Alternatively, you can send me an email via Student Online Services. 
 
-Importing a ZIP'ed NetBeans Project by using only a NetBeans IDE should be easy.
+Importing a ZIP'ed NetBeans Project by using only a NetBeans IDE should be easy. You are advised to use your student account to access the link above,
+and not to use your personal account like @gmail , or @yahoo etc. Again, use "......@student.usp.ac.fj" account only. 
 
 Prepared by: Ratu Solomoni Railoa (s11123197@student.usp.ac.fj)
