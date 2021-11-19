@@ -20,6 +20,9 @@ This program uses a lot of elements from the Java Swing Library, a GUI developem
 There's also a new version of Java Swing, which is JavaFX.
 If you want to design to design GUI programs in C++ or C#, you can use Visual Studio Community Edition for free. 
 
+Here is a hierarchical view of the project files, in Project View mode and in File View mode in NetBeans IDE.
+![Screenshot 2021-11-19 171416](https://user-images.githubusercontent.com/90390564/142570609-84410b08-4fb3-4abf-adaa-32a88d83d599.png)
+
 
 -----
 
